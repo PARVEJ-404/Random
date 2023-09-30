@@ -24,6 +24,10 @@ pip install bs4
 
 pkg install git
 
+git clone https://github.com/PARVEJ-404/Random
 
+cd Random
+
+python Random.py
 
 # Random
